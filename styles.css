@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+#fig{
+   color: red;
+   font-size: 24px;
+}
+.parag{
+    text-align: center;
+}
+#parab{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
